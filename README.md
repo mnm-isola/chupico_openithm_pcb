@@ -1,3 +1,5 @@
+WARNING: UNTESTED
+
 This repository contains PCB design for a direct replacement to the Teensy LC version of OPENITHM board.
 ![](pcb_view.PNG)
 
